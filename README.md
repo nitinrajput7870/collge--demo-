@@ -1,3 +1,3 @@
 # collge--demo-
-this is my first repository .
-this is nitin singh 
+This is my first Git repository .
+Author --- nitin singh 
